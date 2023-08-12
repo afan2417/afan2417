@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afan2417
-- 👀 I’m interested in python Programing
-- 🌱 I’m currently learning programing Languages
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning programming Languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
